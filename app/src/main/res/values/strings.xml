@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeeva-Bindu (New)</string>
+    <string name="default_notification_channel_id">blood_alerts</string>
+    <string name="default_notification_channel_name">Blood Alerts</string>
+</resources>

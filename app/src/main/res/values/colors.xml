@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="emergency_red">#FFC62828</color>
+    <color name="ready_green">#FF2E7D32</color>
+    <color name="background_cream">#FFFFF8F0</color>
+</resources>
