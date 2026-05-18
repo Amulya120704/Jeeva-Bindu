@@ -42,3 +42,5 @@
 ## Stack
 
 Kotlin, Jetpack Compose, Material 3, Room, Firebase Cloud Messaging, minSdk 26.
+=======
+
